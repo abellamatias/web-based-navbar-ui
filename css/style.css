@@ -50,6 +50,10 @@ main{
 .small-font{
     font-size: 12px;
     font-weight: 550;
+    transition: all 0.2s;
+}
+.small-font:hover{
+    transform: scale(1.1);
 }
 
 .subtitle-nav-container{
@@ -60,6 +64,7 @@ main{
     color: var(--button-color);
     font-weight: 700;
 }
+
 
 .nav-container{
 width: 100%;
@@ -132,4 +137,9 @@ background-color: var(--nav-background-color);
     font-weight: 400;
     background-color: var(--button-color);
     color:white;
+}
+
+button:hover{
+    box-shadow: 0 0 3px var(--black-font-color);
+    cursor: pointer;
 }
