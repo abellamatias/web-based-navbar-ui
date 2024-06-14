@@ -58,13 +58,13 @@ main{
 
 .subtitle-nav-container{
     width: 886px;
+    transition: width 0.3s;
 }
 
 .supryze{
     color: var(--button-color);
     font-weight: 700;
 }
-
 
 .nav-container{
 width: 100%;
@@ -130,6 +130,7 @@ background-color: var(--nav-background-color);
     font-size: 12px;
     font-weight: 750;
     background-color: var(--nav-background-color);
+    text-wrap: nowrap;
 }
 
 .register-button{
