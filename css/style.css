@@ -85,6 +85,27 @@ background-color: var(--nav-background-color);
 .search-container{
     flex-basis: 37%;
     display: flex;
+    justify-content: center;
     align-items: center;
 }
 
+.magnifying-glass{
+    opacity: 0.5; 
+}
+
+.input-text{
+    width: 80%;
+    height: 20px;
+    margin-left: -30px;
+    padding-left: 30px;
+    outline: none;
+    border: 1px solid rgba(0 , 0, 0, 0.5);
+    border-radius:3px;
+    display: flex;
+    align-items: center;
+}
+
+.input-text::placeholder{
+    font-size: 12px;
+    
+}
