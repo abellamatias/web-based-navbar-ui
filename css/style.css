@@ -140,7 +140,14 @@ background-color: var(--nav-background-color);
     color:white;
 }
 
+.register-button:hover{
+    background-color: #3d7ae6;
+}
+
+.download-button:hover{
+    background-color: #d2ddf3;
+} 
+
 button:hover{
-    box-shadow: 0 0 3px var(--black-font-color);
     cursor: pointer;
 }

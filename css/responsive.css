@@ -8,11 +8,8 @@
 }
 
 @media(max-width: 768px){
-    main{
-        width: 100%;
-    }
     .subtitle-nav-container{
-        width: 100%;
+        width: 95%;
     }
 }
 
@@ -39,6 +36,9 @@
 }
 
 @media(max-width: 450px){
+    .subtitle-nav-container{
+        width: 100%;
+    }
     .input-text{
         display:flex;
     }
