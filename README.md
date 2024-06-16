@@ -1,6 +1,12 @@
+##Barra de navegación UI & UX
+
 Este proyecto es una página que tiene dos navbars diseñadas siguiendo las bases de UI & UX. Está realizada usando HTML y CSS.
 
 Podés ver la página ingresando al siguiente link:
+
+https://abellamatias.github.io/web-based-navbar-ui/
+
+Podés ver la inspiración ingresando al siguiente link:
 
 https://dribbble.com/shots/18482616-Navbar-UI-Figma-Auto-Layout
 
