@@ -1,4 +1,4 @@
-##Barra de navegación UI & UX
+## Barra de navegación UI & UX
 
 Este proyecto es una página que tiene dos navbars diseñadas siguiendo las bases de UI & UX. Está realizada usando HTML y CSS.
 
